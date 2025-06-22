@@ -56,13 +56,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "TextureGraph",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
 			"Name": "CascadeToNiagaraConverter",
 			"Enabled": true
 		},
@@ -70,5 +63,8 @@
 			"Name": "LygiaShader",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
